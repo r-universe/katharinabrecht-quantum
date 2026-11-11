@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "octawave"]
 	path = octawave
-	url = https://github.com/katharinabrecht-quantum/octawave
+	url = https://github.com/cran/octawave
 [submodule "sync3d"]
 	path = sync3d
-	url = https://github.com/katharinabrecht-quantum/sync3d
+	url = https://github.com/cran/sync3d
 [submodule "theaitetos"]
 	path = theaitetos
-	url = https://github.com/katharinabrecht-quantum/theaitetos
+	url = https://github.com/cran/theaitetos
